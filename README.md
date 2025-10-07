@@ -67,7 +67,7 @@
 4. **Use Case: Lịch sử đơn hàng** – xem chi tiết đơn đã mua  
 5. **Use Case: Chat realtime** – trò chuyện giữa **khách hàng** và **admin**  
 
-📸 *Chèn hình sơ đồ tại đây (ví dụ trong thư mục `images/`):*
+📸 *Chèn hình sơ đồ *
 
 ![Use Case Tổng thể](images/usecase_main.png)
 ![Use Case Quản lý sản phẩm](images/usecase_admin.png)
@@ -77,7 +77,7 @@
 
 ## 📸 Screenshots
 
-📱 *Chèn ảnh giao diện app (ví dụ trong thư mục `screenshots/`):*
+📱 *Chèn ảnh giao diện app *
 
 ![Trang chủ](screenshots/home.png)
 ![Giỏ hàng](screenshots/cart.png)
