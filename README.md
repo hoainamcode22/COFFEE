@@ -75,3 +75,13 @@
 
 ---
 
+💬 Contact
+
+📧 Email: codenamtap@gmail.com
+
+🔗 GitHub: hoainamcode22
+
+🌐 Portfolio: hoainam-portfolio-1.vercel.app
+
+📱 LinkedIn: Nguyễn Hoài Nam
+
