@@ -67,11 +67,24 @@
 4. **Use Case: Lịch sử đơn hàng** – xem chi tiết đơn đã mua  
 5. **Use Case: Chat realtime** – trò chuyện giữa **khách hàng** và **admin**  
 
-📸 *Chèn hình sơ đồ *
+📸 Screenshots
 
 ![Use Case Tổng thể](images/usecase_main.png)
 ![Use Case Quản lý sản phẩm](images/usecase_admin.png)
 ![Use Case Chat Realtime](images/usecase_chat.png)
+
+
+---
+## 🎥 Video Demo
+
+Xem demo ứng dụng tại file: [demo.mkv](screenshots/demo.mkv)
+
+---
+⚙️ Installation & Setup
+1. Clone project
+   
+git clone https://github.com/hoainamcode22/COFFEE.git
+cd COFFEE
 
 ---
 
