@@ -75,29 +75,3 @@
 
 ---
 
-## 📸 Screenshots
-
-📱 *Chèn ảnh giao diện app *
-
-![Trang chủ](screenshots/home.png)
-![Giỏ hàng](screenshots/cart.png)
-![Lịch sử đơn hàng](screenshots/order_history.png)
-![Chat Realtime](screenshots/chat.png)
-
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone project
-```bash
-git clone https://github.com/hoainamcode22/COFFEE.git
-
-## 💬 Contact
-
-📧 Email: codenamtap@gmail.com
-
-🔗 GitHub: hoainamcode22
-
-🌐 Portfolio: https://hoainam-portfolio-1.vercel.app
-
-📱 LinkedIn: Nguyễn Hoài Nam
